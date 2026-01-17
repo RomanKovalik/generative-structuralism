@@ -151,7 +151,8 @@ Any reality capable of generating intelligible, emergent systems must be grounde
 
 _The axioms establish requirements. The hypothesis that follows formalizes what satisfies them._
 
----
+
+
 
 ---
 
