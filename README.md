@@ -143,19 +143,13 @@ Clarifications:
 
 ### Core Conclusion from Axioms
 
-Any reality capable of generating intelligible, emergent systems must be grounded in a minimal, coherent constraint architecture that governs degrees of freedom and is intrinsically reason-compatible.
+Any coherent reality presupposes:
 
-**Nothing here implies:**
+- Constraints that are defined, not accidental
+- Enforcement that is faithful, not drifting
+- A defining system that is not derivative of what it defines
 
-- Intention
-- Purpose
-- Consciousness
-- Value
-- Theology
-
-_The axioms establish requirements. The hypothesis that follows formalizes what satisfies them._
-
-
+The axioms establish structural requirements. The hypothesis that follows formalizes what satisfies them.
 
 
 ## The Formal Derivation
