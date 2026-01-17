@@ -27,6 +27,8 @@ Neither game is "anything goes"—both have rigid rules. But more coherence (che
 
 
 
+
+
 ## The Axioms of Generative Structuralism
 
 ### Axiom 1 — Constraint is unavoidable
