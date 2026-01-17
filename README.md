@@ -24,7 +24,8 @@ The interaction between coherence and degrees of freedom can be illustrated by c
 
 Neither game is "anything goes"—both have rigid rules. But more coherence (chess's complex piece rules) _enables_ more meaningful freedom, not less. The balance matters: too much constraint yields sterility; too little yields noise. The viable region for emergence is narrow.
 
----
+
+
 
 ## The Axioms of Generative Structuralism
 
