@@ -90,16 +90,17 @@ _This is the first unavoidable appearance of reason (in the minimal sense)._
 
 ---
 
-### Axiom 5 — Emergence requires a narrow coherence–freedom balance
+### Axiom 5 — Emergence requires coherence to structure freedom
 
-Complex, intelligible systems arise only where minimal coherence governs sufficient degrees of freedom.
+Complex, persistent systems arise only where coherence constrains variation such that differences have accumulating consequences.
 
-- Too much coherence → sterility
-- Too much freedom → noise
-- The viable region is narrow and fragile
+Coherence without freedom → no variation to select (sterility)
+Freedom without coherence → no basis for selection or accumulation (noise)
+Coherence that merely limits freedom → reduction without generation
+Coherence that structures freedom → variation with differential consequence (emergence)
 
-_This is not a probability claim. It is a reachability constraint._
-
+The requirement is not a numerical balance but a functional relationship: constraints must organize degrees of freedom so that choices propagate meaningfully through the system.
+Most configurations fail this requirement. Narrowness follows.
 ---
 
 ### Axiom 6 — Reachability precedes probability
