@@ -160,7 +160,7 @@ _The axioms establish requirements. The hypothesis that follows formalizes what 
 
 ---
 
-## 1. Starting Conditions
+### 1. Starting Conditions
 
 Let **P** represent the prior state from which any constraint architecture must originate.
 
@@ -194,7 +194,7 @@ D(Ω) = 0,  S(Ω) = 0,  H(Ω) = 0
 
 ---
 
-## 2. The Generator
+### 2. The Generator
 
 A generator system **G** produces a realized world **W** by defining coherence constraints, degrees of freedom, and the enforcement mechanism:
 
@@ -229,7 +229,7 @@ This captures the narrow coherence-freedom balance:
 
 ---
 
-## 3. Minimal Cognitive Functions
+### 3. Minimal Cognitive Functions
 
 Three fundamental functions are required at minimum for the transition from P to G:
 
@@ -243,7 +243,7 @@ Three fundamental functions are required at minimum for the transition from P to
 
 ---
 
-## 4. Cognitive Requirements for Definition
+### 4. Cognitive Requirements for Definition
 
 The cognitive cost of definition separates into coherence definition and freedom definition:
 
@@ -279,7 +279,7 @@ All functions are necessary; none are sufficient alone.
 
 ---
 
-## 5. Enforcement and Reality
+### 5. Enforcement and Reality
 
 **The Key Insight:**
 
@@ -323,7 +323,7 @@ The cognitive cost of definition is the irreducible requirement.
 
 ---
 
-## 6. The Full Formula
+### 6. The Full Formula
 
 **Definition Cost:**
 
@@ -361,7 +361,7 @@ The cognitive cost of definition cannot be zero. This is the irreducible require
 
 ---
 
-## 7. The Hypothesis
+### 7. The Hypothesis
 
 **Given:**
 
@@ -392,7 +392,7 @@ A cognitive ground is required as a necessary condition for the existence of any
 
 ---
 
-## 8. Challenge to Opponents
+### 8. Challenge to Opponents
 
 **The Null Hypothesis:**
 
@@ -416,7 +416,7 @@ The claim "zero cognition is sufficient" is a positive claim requiring defense, 
 
 ---
 
-## 9. What the Hypothesis Does Not Claim
+### 9. What the Hypothesis Does Not Claim
 
 This formulation establishes a **minimum functional requirement**. It does not assert:
 
@@ -431,7 +431,7 @@ The hypothesis identifies a functional role that must be filled. The character o
 
 ---
 
-## 10. Summary
+### 10. Summary
 
 |Component|Symbol|Cognitive Requirement|
 |---|---|---|
