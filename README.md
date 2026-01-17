@@ -113,17 +113,19 @@ Therefore: Multiverse explanations are constrained by architecture, not rescued 
 
 ---
 
-### Axiom 7 — Reason cannot be posterior to the system that enables reason
+### Axiom 7 — Definition cannot be derivative
 
-Reason (as intelligibility-supporting structure) cannot first emerge downstream of the system that defines and maintains intelligible constraints.
+The system that defines constraints cannot itself be a product of those constraints.
 
-- Intelligence may emerge later
-- Phenomenology may emerge later
-- Optimization may emerge later
+- Intelligence may emerge within a defined system
+- Phenomenology may emerge within a defined system
+- Optimization may emerge within a defined system
 
-But the conditions for intelligibility must already hold.
+But the system that defines the constraints enabling such emergence cannot itself emerge from those constraints.
 
-_This is the key priority claim: Before phenomenology, there was reason._
+What emerges within presupposes what defines. The dependency is asymmetric and cannot be reversed.
+
+_This is a priority claim, not a claim about the nature of the defining system._
 
 ---
 
@@ -453,7 +455,7 @@ The axioms and formal derivation converge on a single conclusion:
 
 ### The Principle of Cognitive Origins
 
-> **The origin of any coherent, generative constraint architecture is necessarily cognitive.**
+> **The origin of any coherent reality is necessarily cognitive.**
 
 This conclusion:
 
