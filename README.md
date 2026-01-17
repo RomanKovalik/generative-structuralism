@@ -1,7 +1,5 @@
 # Generative Structuralism
 
----
-
 ## Definitions
 
 - **Constraint:** A distinction between allowed and forbidden states or transitions
