@@ -94,13 +94,15 @@ _This is the first unavoidable appearance of reason (in the minimal sense)._
 
 Complex, persistent systems arise only where coherence constrains variation such that differences have accumulating consequences.
 
-Coherence without freedom → no variation to select (sterility)
-Freedom without coherence → no basis for selection or accumulation (noise)
-Coherence that merely limits freedom → reduction without generation
-Coherence that structures freedom → variation with differential consequence (emergence)
+- Coherence without freedom → no variation to select (sterility)
+- Freedom without coherence → no basis for selection or accumulation (noise)
+- Coherence that merely limits freedom → reduction without generation
+- Coherence that structures freedom → variation with differential consequence (emergence)
 
 The requirement is not a numerical balance but a functional relationship: constraints must organize degrees of freedom so that choices propagate meaningfully through the system.
-Most configurations fail this requirement. Narrowness follows.
+
+_Most configurations fail this requirement. Narrowness follows._
+
 ---
 
 ### Axiom 6 — Reachability precedes probability
