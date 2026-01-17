@@ -483,7 +483,7 @@ Cognitive Origins (Conclusion)
 
 ### What Cognitive Origins Asserts
 
-The origin of any coherent, generative constraint architecture capable of producing intelligible, emergent systems is necessarily cognitive—possessing at minimum the capacity for discrimination, specification, and holding.
+The origin of any coherent reality capable of producing intelligible, emergent systems is necessarily cognitive—possessing at minimum the capacity for discrimination, specification, and holding.
 
 ### What Cognitive Origins Does Not Assert
 
