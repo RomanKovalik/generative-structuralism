@@ -86,8 +86,6 @@ A system that defines constraints must itself be coherent; otherwise it defines 
 
 Therefore: Definition presupposes minimal coherence.
 
-_This is the first unavoidable appearance of reason (in the minimal sense)._
-
 ---
 
 ### Axiom 5 — Emergence requires coherence to structure freedom
