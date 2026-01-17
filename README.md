@@ -156,11 +156,7 @@ _The axioms establish requirements. The hypothesis that follows formalizes what 
 
 
 
----
-
 ## The Formal Derivation
-
----
 
 ### 1. Starting Conditions
 
