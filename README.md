@@ -153,7 +153,7 @@ Any coherent reality presupposes:
 The axioms establish structural requirements. The hypothesis that follows formalizes what satisfies them.
 
 
-## The Formal Derivation
+## The Cognitive Ground Hypothesis
 
 ### 1. Starting Conditions
 
